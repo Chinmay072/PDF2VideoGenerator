@@ -3,7 +3,7 @@ import fitz  # PyMuPDF
 import base64
 import os
 from groq import Groq
-from moviepy import ImageClip, CompositeVideoClip, concatenate_videoclips, AudioFileClip
+from moviepy.editor import ImageClip, CompositeVideoClip, concatenate_videoclips, AudioFileClip
 from gtts import gTTS
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
