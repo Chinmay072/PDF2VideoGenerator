@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+groq
+moviepy
+gTTS
+Pillow
+numpy
+python-dotenv
